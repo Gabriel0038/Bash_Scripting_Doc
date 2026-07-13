@@ -19,11 +19,20 @@ else
 fi
 ```
 
-## Explenation
+## Usage
 
-- Created a variable username and attached an argument to it. 
-- Used grep to check the username in /etc/passwd
-- If-Then-Else statement to echo results massage with exit status attached 
+```bash
+./user_check.sh gabi
+./user_check.sh root
+./user_check.sh alex
+```
+
+## Details
+
+- Stores the username passed as a command-line argument.
+- Uses `grep` to search `/etc/passwd`.
+- Uses an `if-then-else` statement
+- Returns `0` if the user exists, `1` otherwise.
 
 ## Results:
 
