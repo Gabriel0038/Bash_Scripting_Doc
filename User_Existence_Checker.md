@@ -1,3 +1,7 @@
+## Purpose
+
+Check whether a specified Linux user exists on the system.
+
 ## Bash Script:
 
 ```bash
