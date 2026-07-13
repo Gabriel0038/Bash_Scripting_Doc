@@ -1,7 +1,6 @@
-Basic script that checks if a user exists on the server or not
+## Bash Script:
 
-Bash Script:
-
+```bash
 #!/bin/bash
 # Checks if a specified Linux user exists.
 #
@@ -14,6 +13,7 @@ else
         echo "User is not present."
         exit 1
 fi
+```
 
 Explenation
 
