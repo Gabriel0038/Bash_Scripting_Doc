@@ -3,7 +3,7 @@
 ## Bash Script ## 
 
 #!/bin/bash
-# User Existence Checker
+# Checks if a specified Linux user exists.
 #
 username=$1
 if grep "$username" /etc/passwd
