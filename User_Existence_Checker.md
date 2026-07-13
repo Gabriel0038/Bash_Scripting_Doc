@@ -1,6 +1,6 @@
-# Basic script that checks if a user exists on the server or not #
+Basic script that checks if a user exists on the server or not
 
-## Bash Script ## 
+Bash Script:
 
 #!/bin/bash
 # Checks if a specified Linux user exists.
@@ -15,12 +15,12 @@ else
         exit 1
 fi
 
-# Explenation #
+Explenation
 
 - Created a variable username and attached an argument to it. 
 - Used grep to check the username in /etc/passwd
 - If-Then-Else statement to echo results massage with exit status attached 
 
 RESULTS
+<img width="591" height="174" alt="image" src="https://github.com/user-attachments/assets/fe7f153a-2d8d-4286-82d0-7e6fc6807213" />
 
-![<img width="591" height="174" alt="image" src="https://github.com/user-attachments/assets/8cac2fc7-fed7-4435-afb0-b6169c2a8c14" />]
