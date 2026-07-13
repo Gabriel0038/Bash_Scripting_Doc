@@ -21,7 +21,7 @@ fi
 - Used grep to check the username in /etc/passwd
 - If-Then-Else statement to echo results massage with exit status attached 
 
-## RESULTS:
+## Results:
 
 <img width="591" height="174" alt="image" src="https://github.com/user-attachments/assets/fe7f153a-2d8d-4286-82d0-7e6fc6807213" />
 
