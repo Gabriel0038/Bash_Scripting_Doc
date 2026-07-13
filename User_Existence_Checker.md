@@ -1,6 +1,6 @@
 ## Purpose
 
-Check whether a specified Linux user exists on the system.
+Check whether a specified Linux user exists on the system
 
 ## Bash Script:
 
@@ -29,10 +29,10 @@ fi
 
 ## Details
 
-- Stores the username passed as a command-line argument.
-- Uses `grep` to search `/etc/passwd`.
+- Stores the username passed as a command-line argument
+- Uses `grep` to search `/etc/passwd`
 - Uses an `if-then-else` statement
-- Returns `0` if the user exists, `1` otherwise.
+- Returns `0` if the user exists, `1` otherwise
 
 ## Results:
 
