@@ -20,3 +20,7 @@ fi
 - Created a variable username and attached an argument to it. 
 - Used grep to check the username in /etc/passwd
 - If-Then-Else statement to echo results massage with exit status attached 
+
+RESULTS
+
+![<img width="591" height="174" alt="image" src="https://github.com/user-attachments/assets/8cac2fc7-fed7-4435-afb0-b6169c2a8c14" />]
