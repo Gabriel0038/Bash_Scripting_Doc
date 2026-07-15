@@ -27,9 +27,11 @@ fi
 
 ## Details
 
-Used [ -z "$service" ] to validate that an argument was provided
-Uses systemctl is-active to find the service status
-Returns exit code 0 when the service is active and 1 when inactive
+- Used [ -z "$service" ] to validate that an argument was provided
+
+- Uses systemctl is-active to find the service status
+
+- Returns exit code 0 when the service is active and 1 when inactive
 
 ## Results:
 
