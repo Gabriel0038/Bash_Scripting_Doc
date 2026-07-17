@@ -14,7 +14,7 @@ Project that creates automated daily backups of the /etc directory.
 
 #!/bin/bash
 #
-# Scripts that creates daily automated backups for /etc directory
+# Script that creates daily automated backups of the /etc directory
 
 # Variables
 
