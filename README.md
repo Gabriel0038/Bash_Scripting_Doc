@@ -9,3 +9,5 @@ Documentation of scripts created during learing progress
 #3 [Log File Check (size + amount of lines) ](https://github.com/Gabriel0038/Bash_Scripting_Doc/blob/main/log_file_check.md)
 
 #4 [Backup File Check](https://github.com/Gabriel0038/Bash_Scripting_Doc/blob/main/backup_file_check.md)
+
+#5 Automated Backup Script 
