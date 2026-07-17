@@ -31,6 +31,13 @@ fi
 
 ```
 
+## Tested Scenarios
+
+- Missing argument
+- Non-existent backup
+- Empty backup file
+- Valid backup archive
+
 ## Usage
 
 ```bash
