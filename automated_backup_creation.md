@@ -4,10 +4,10 @@ Project that creates automated daily backups of the /etc directory.
 
 ## Tasks
 
-- Script created
-- Manually tested
-- Cron configuration
-
+- Bash backup script created
+- Script manually tested
+- Daily cron job configured
+  
 ## Bash Script:
 
 ```bash
