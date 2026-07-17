@@ -18,7 +18,7 @@ Project that creates automated daily backups of the /etc directory.
 
 # Variables
 
-backupdir="$HOME/backups/daily_etc_backups"
+backupdir="home/gabi/backups/daily_etc_backups"
 date=$(date +%Y%m%d)
 newbackupname="etc_backup_${date}.tar.gz"
 
