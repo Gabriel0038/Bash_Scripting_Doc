@@ -5,7 +5,7 @@ Project meant to create automated daily backups for the /etc directory.
 ## Tasks
 
 - Script created
-- Tested in different scenarios
+- Manually tested
 - Automated using Cron jobs
 
 ## Bash Script:
