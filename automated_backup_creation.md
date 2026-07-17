@@ -34,7 +34,7 @@ fi
 # Backup Creation
 
 if [ -e "$backupdir" ]
-        then sudo tar -czf "$backupdir/$newbackupname" /etc
+        then tar -czf "$backupdir/$newbackupname" /etc
                 echo "Archive created"
                 exit 0
         else echo "Archive was not created"
@@ -54,8 +54,8 @@ Manually tested the script:
 
 ## CRON
 
-- crontba -e -> edit and add "0 14 * * * /home/gabi/scripting_project/daily_etc_backup.sh" 
-- check with crontab -l 
+- sudo crontba -e -> edit and add "0 14 * * * /home/gabi/scripting_project/daily_etc_backup.sh" 
+- check with sudo crontab -l 
 
 <img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/0b2f72c2-0a48-4976-ae93-f73b0d073aeb" />
 
