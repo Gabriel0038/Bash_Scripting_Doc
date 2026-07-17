@@ -1,12 +1,12 @@
 ## Purpose
 
-Project meant to create automated daily backups for the /etc directory. 
+Project that creates automated daily backups of the /etc directory.
 
 ## Tasks
 
 - Script created
 - Manually tested
-- Automated using Cron jobs
+- Cron configuration
 
 ## Bash Script:
 
