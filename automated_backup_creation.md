@@ -47,8 +47,8 @@ fi
 
 Manually tested the script:
 
-<img width="772" height="122" alt="image" src="https://github.com/user-attachments/assets/7545890c-5f8a-4318-84f3-00b206ac078d" />
-<img width="742" height="72" alt="image" src="https://github.com/user-attachments/assets/797e0853-f82c-4b87-b40e-565a6112d30e" />
+<img width="1140" height="259" alt="image" src="https://github.com/user-attachments/assets/9619684a-3ba6-4fc4-bea3-a5b07147c48a" />
+
 
 
 
