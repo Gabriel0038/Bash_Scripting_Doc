@@ -57,5 +57,6 @@ Manually tested the script:
 - sudo crontba -e -> edit and add "0 14 * * * /home/gabi/scripting_project/daily_etc_backup.sh" 
 - check with sudo crontab -l 
 
-<img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/0b2f72c2-0a48-4976-ae93-f73b0d073aeb" />
+<img width="852" height="596" alt="image" src="https://github.com/user-attachments/assets/15356bd8-f234-4245-9bf0-d60bd672e84e" />
+
 
